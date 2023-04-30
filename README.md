@@ -1,4 +1,4 @@
-![logo]https://github.com/TammyAlok2/Github-profile/blob/main/Blue%20Gaming%20Facebook%20Cover.png
+<img src=:"https://github.com/TammyAlok2/Github-profile/blob/main/Blue%20Gaming%20Facebook%20Cover.png" />
 <h1 align="center">Hi 👋, I'm Alok Tamrakar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tammyalok2&label=Profile%20views&color=0e75b6&style=flat" alt="tammyalok2" /> </p>
