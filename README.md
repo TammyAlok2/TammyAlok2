@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- [![An image of @tammyalok2's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@tammyalok2)](https://www.holopin.io/@tammyalok2#badges)
+- [![An image of @tammyalok2's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@tammyalok2)](https://www.holopin.io/@tammyalok2)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
