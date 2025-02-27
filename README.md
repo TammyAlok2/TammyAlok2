@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tammyalok2" alt="tammyalok2" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🔭 I’m currently working on **Coke-Code**
+- 🔭 I’m currently working on **Kryx AI as Full Stack Developer**
 
-- 🌱 I’m currently learning **React-Js,DSA**
+- 🌱 I’m currently learning **WEB 3 And AI **
 
-- 🤝 I’m looking for help with **Medistop**
+- 🤝 I’m looking for help with **Kryx Ai **
 
 - 👨‍💻 All of my projects are available at [https://alokportifolioreact.netlify.app/](https://alokportifolioreact.netlify.app/)
 
 - 📝 I regularly write articles on [https://alokblog.hashnode.dev/](https://alokblog.hashnode.dev/)
 
-- 💬 Ask me about **react,Dsa,Node JS**
+- 💬 Ask me about **React js , Next js , Fast Api , Python , AWS EC2 , Github ,Dsa,Node JS**
 
 - 📫 How to reach me **aloktamrakar2@gmail.com**
 
